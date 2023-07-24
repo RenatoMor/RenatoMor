@@ -16,14 +16,8 @@ Atualmente estou cursando ADS e tenho o objetivo de migrar para área de desenvo
 
 ### 🏅 Habilidades
 <h1></h2>
-<img alt="Python" height="30" width="30" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/>
-<img alt="AmazonCloud" height="30" width="30" src="https://img.icons8.com/?size=512&id=OPoc3Wv99Ibz&format=png"/>
-<img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="GitHub" height="30" width="30" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>
-<img alt="GitHub" height="30" width="30" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>
-<img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/>
-<img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"/>
-<img alt="Azure" height="30" width="0" src="https://img.icons8.com/?size=512&id=UECmBSgBOvPT&format=png"/>
+<img alt="Python" height="30" width="30" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/> <img alt="AmazonCloud" height="30" width="30" src="https://img.icons8.com/?size=512&id=OPoc3Wv99Ibz&format=png"/> <img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img alt="GitHub" height="30" width="30" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/> <img alt="GitHub" height="30" width="30" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>
+<img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/> <img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"/> <img alt="Azure" height="30" width="0" src="https://img.icons8.com/?size=512&id=UECmBSgBOvPT&format=png"/>
 
 <h1 align="center"></h1>
 

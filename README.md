@@ -2,7 +2,7 @@
 
 <h3>Conecte-se!</h3>
 
-<a href="https://web.dio.me/users/renato_moreira?tab=skills" target="_blank"> alt="" height="40" width="110" src="https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"></a>
+<a href="https://web.dio.me/users/renato_moreira?tab=skills" target="_blank"> <img align="center" alt="" height="40" width="110" src="https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png"></a>
 <a href="https://www.instagram.com/piano_tato/" target="_blank"> <img align="center" alt="" height="40" width="40" src="https://img.icons8.com/?size=1x&id=nj0Uj45LGUYh&format=png"></a>
 <a href="https://www.facebook.com/renato.moreira.908/" target="_blank"> <img align="center" alt="" height="40" width="40" src="https://img.icons8.com/?size=1x&id=jZ0kw76QEzJU&format=png"></a>
 <a href="https://www.linkedin.com/in/renatomoreira-rm//" target="_blank"> <img align="center" alt="" height="40" width="40" src="https://img.icons8.com/?size=1x&id=MR3dZdlA53te&format=png"></a>
@@ -16,12 +16,14 @@ Atualmente estou cursando ADS e tenho o objetivo de migrar para área de desenvo
 
 ### 🏅 Habilidades
 <h1></h2>
-<img <img align="center" alt="Python" height="20" width="20" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/>
-<img alt="AmazonCloud" height="20" width="20" src="https://img.icons8.com/?size=512&id=OPoc3Wv99Ibz&format=png"/>
-<img alt="JavaScript" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="GitHub" height="20" width="20" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>
-<img alt="C#" height="20" width="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>
-<img alt="Vscode" height="20" width="20" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"/>
+<img alt="Python" height="30" width="30" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/>
+<img alt="AmazonCloud" height="30" width="30" src="https://img.icons8.com/?size=512&id=OPoc3Wv99Ibz&format=png"/>
+<img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="GitHub" height="30" width="30" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>
+<img alt="GitHub" height="30" width="30" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"/>
+<img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=VLKafOkk3sBX&format=png"/>
+<img alt="Azure" height="30" width="30" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"/>
+<img alt="Azure" height="30" width="0" src="https://img.icons8.com/?size=512&id=UECmBSgBOvPT&format=png"/>
 
 <h1 align="center"></h1>
 
@@ -36,4 +38,3 @@ Atualmente estou cursando ADS e tenho o objetivo de migrar para área de desenvo
 
 ### 🖥️ Linguagem
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenatoMor&layout=compact&theme=holi&hide_title=true&show_icons=true)
-

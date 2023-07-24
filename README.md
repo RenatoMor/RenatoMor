@@ -35,8 +35,8 @@ Atualmente estou cursando ADS e tenho o objetivo de migrar para área de desenvo
 ### 📈 Estatística do GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=RenatoMor&theme=holi-theme)](https://git.io/streak-stats)
 
-### 🗄️Repositório
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMor&repo=Sistema_Bancario_v1&&theme=holi&show_icons=true&&show_owner=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+### 🗄️Repositório 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMor&repo=Sistema_Bancario&&theme=holi&show_icons=true&&show_owner=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
 ### 🖥️ Linguagem
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenatoMor&layout=compact&theme=holi&hide_title=true&show_icons=true)

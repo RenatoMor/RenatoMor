@@ -16,7 +16,7 @@ Atualmente estou cursando ADS e tenho o objetivo de migrar para área de desenvo
 
 ### 🏅 Habilidades
 <h1></h2>
-<img alt="Python" height="30" width="30" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/>
+<img <img align="center" alt="Python" height="30" width="30" src="https://img.icons8.com/?size=512&id=hGdCwhSHUe6L&format=png"/>
 <img alt="AmazonCloud" height="30" width="30" src="https://img.icons8.com/?size=512&id=OPoc3Wv99Ibz&format=png"/>
 <img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="GitHub" height="30" width="30" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>

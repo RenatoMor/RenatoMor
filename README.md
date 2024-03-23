@@ -24,12 +24,8 @@ I'm currently studying ADS and my goal is to migrate to the Back-End development
 
 #### IDEs
 
-<img alt="Visual Studio Code" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>   
-<img alt="Visual Studio" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"/>    
-<img alt="IntelliJ IDEA" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-<img alt="Pycharm" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>   
-<img alt="Webstrom" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg"/>   
-<img alt="Eclipse" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
+<img alt="Visual Studio Code" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> <img alt="Visual Studio" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"/> <img alt="IntelliJ IDEA" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/> <img alt="Pycharm" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+<img alt="Webstrom" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg"/> <img alt="Eclipse" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
 
 ---
 

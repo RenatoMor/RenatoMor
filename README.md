@@ -17,6 +17,20 @@ I am driven by curiosity and the constant search for new knowledge. I see challe
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+### 📚 **Certificates**
+
+| Certificate                                                                                                                                                       | Institution            | Duration |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------- |
+| [Python](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/87807/c1ec8866ba0c9e4f4800b34e1741a167/certificado.png)                 | Fiap                   | 80 hours |
+| [Formação Python Developer](https://www.dio.me/certificate/D44B07EF/share)                                                                                        | Digital Innovation One | 64 hours |
+| [Python Data Analytics](https://www.dio.me/certificate/VE5ILCUC/share)                                                                                            | Digital Innovation One | 68 hours |
+| [Potência Tech Ciência de Dados](https://www.dio.me/certificate/FFB6D68F/share)                                                                                   | Digital Innovation One | 80 hours |
+| [Ciência de Dados com Python](https://www.dio.me/certificate/F2BA2CF7/share)                                                                                      | Digital Innovation One | 89 hours |
+| [DevOps & Agile Culture](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/87926/ef4c649eb043e36627af59819840fd39/certificado.png) | Fiap                   | 60 hours |
+| [Microsoft Azure AI Fundamentals](https://www.dio.me/certificate/YCYTYZKR/share)                                                                                  | Digital Innovation One | 35 hours |
+
+Microsoft Azure AI Fundamentals
+
 ## 🏅 Soft Skills
 
 #### Programming Language

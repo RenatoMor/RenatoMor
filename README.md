@@ -104,9 +104,9 @@ Microsoft Azure AI Fundamentals
 
 ![Renato Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMor&theme=holi&show_icons=true&normal_rank=true)
 
-### 📈 Estatística do GitHub Streak
+### 📈 Estatística do GitHub WakaTime stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RenatoMor&theme=holi-theme)](https://git.io/streak-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?RenatoMor=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🗄️Repositório
 
